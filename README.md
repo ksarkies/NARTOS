@@ -7,9 +7,8 @@ small AVRs, having as low as 360 bytes of FLASH and 3 bytes of RAM per task. It
 is useful for applications with quite loose real time demands. It does not use
 time slicing and relies on programming techniques to manage task flow.
 
-More information about NARTOS is available on:
-
-http://www.jiggerjuice.info/electronics/projects/scheduling-os.html
+More information about NARTOS is available on [Jiggerjuice](
+http://www.jiggerjuice.info/electronics/projects/scheduling-os.html)
 
 Also some small libraries written for a limited number of AVRs, notably the
 ATMega48 series. These libraries are used in some older projects and will be
